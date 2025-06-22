@@ -35,7 +35,7 @@ export default function Index() {
           <View style={styles.buttonContainer}>
             <Button 
               title="View Forecast" 
-              onPress={() => {}} 
+              onPress={() => router.push('/forecast')} 
               style={styles.button}
             />
             <SignOutButton />
