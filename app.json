@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.tgxzd.weatherapp"
+      "package": "com.aizad.weatherapp"
     },
     "web": {
       "bundler": "metro",
@@ -44,7 +44,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "93aac44b-24f7-434d-8545-5c54e979b9a6"
+        "projectId": "cdc3678a-276a-425f-a093-99ca19c487f9"
       }
     }
   }
